@@ -1,4 +1,4 @@
-# This Resume CV is based on a format, that I modified, find in Overleaf (Below the proper information).
+This Resume CV is based on a format, that I modified, find in Overleaf (Below the proper information).
 
 ## AltaCV, yet another LaTeX CV/Résumé class
 
